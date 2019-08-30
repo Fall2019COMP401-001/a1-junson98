@@ -63,7 +63,7 @@ public class A1Adept {
 		avgTotal = avgTotal / numCustomer;
 		//System.out.println(firstName[i].charAt(0)+ ". " + lastName[i] + ": " + total);
 		System.out.println("Biggest: " + biggestName + " " + "(" +String.format("%.2f", biggest)+")");
-		System.out.println("Smallest: " + smallestName + " " + String.format("%.2f", smallest)+")");
+		System.out.println("Smallest: " + smallestName + " "  + "(" +String.format("%.2f", smallest)+")");
 		System.out.println("Average: " + String.format("%.2f", avgTotal));
 	}
 		
